@@ -107,7 +107,7 @@ The input switches can be changed to test different floor selections. The compar
 
 ### Circuit Diagram
 
-![Digital Elevator Control System](Images/elevator-circuit.png)
+Digital-Elevator-Control-System-proteus/Images/elevator-circuit.png
 
 ---
 
